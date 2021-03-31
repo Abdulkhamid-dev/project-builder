@@ -1,0 +1,18 @@
+.divider {
+  height: 40px;
+  width: 0.1px;
+}
+.sec-1 {
+  h4,
+  h2 {
+    cursor: pointer;
+  }
+}
+h4 {
+  &:hover {
+    color: #0bb783 !important;
+  }
+  &::after {
+    color: #0bb783 !important;
+  }
+}

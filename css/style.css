@@ -1,0 +1,89 @@
+.bg-header {
+  background: #181c32;
+}
+
+nav div {
+  min-height: 80px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 97;
+  height: 77px;
+}
+
+.nav-color {
+  color: #adb1c7 !important;
+}
+
+.creat-btn {
+  color: #fff;
+  background-color: #0bb783;
+  border-color: #0bb783;
+}
+
+.logo {
+  width: 100%;
+  max-width: 450px;
+}
+
+.nav-link {
+  color: #adb1c7 !important;
+}
+
+.divider {
+  height: 40px;
+  width: 0.1px;
+}
+
+.sec-1 h4,
+.sec-1 h2 {
+  cursor: pointer;
+}
+
+h4:hover {
+  color: #0bb783 !important;
+}
+h4::after {
+  color: #0bb783 !important;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+.head-height {
+  background: #cceef2;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: #cceef2;
+}
+
+li {
+  list-style: none;
+}
+
+.form-select {
+  background: #f1f0f0;
+}
+
+.subheader {
+  margin-top: 90px;
+}
+
+.a-icon:hover {
+  background: #6b6a6a;
+}
+.a-icon:hover i {
+  color: #e2dfdf !important;
+}
+
+/*# sourceMappingURL=style.css.map */

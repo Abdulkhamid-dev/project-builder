@@ -1,0 +1,29 @@
+@import "header";
+@import "sec-1";
+* {
+  font-family: sans-serif;
+}
+.head-height {
+  background: #cceef2;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background: #cceef2;
+}
+li {
+  list-style: none;
+}
+.form-select {
+  background: rgb(241, 240, 240);
+}
+.subheader {
+  margin-top: 90px;
+}
+.a-icon:hover {
+  background: rgb(107, 106, 106);
+  i {
+    color: rgb(226, 223, 223) !important;
+  }
+}
